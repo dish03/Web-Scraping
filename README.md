@@ -1,2 +1,2 @@
 # Web-Scraping
-Scraping Mac Cosmetics
+Scraping Mac Cosmetics using BS4 and Selenium
